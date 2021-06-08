@@ -1,6 +1,6 @@
 # yazilimOrtamFinal
 
-steps:
+#steps:
 - uses: actions/checkout@master
 - uses: codecov/codecov-action@v1
   with:
